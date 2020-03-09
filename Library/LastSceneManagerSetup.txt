@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Candidates.unity
+- path: Assets/Scenes/Vote.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

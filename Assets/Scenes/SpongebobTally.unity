@@ -212,6 +212,16 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -3.07
       objectReference: {fileID: 0}
+    - target: {fileID: 3249766933442102458, guid: 79e150a69306ddd4388e920a890d63f9,
+        type: 3}
+      propertyPath: m_Name
+      value: Spongebob Bar
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249766933442102458, guid: 79e150a69306ddd4388e920a890d63f9,
+        type: 3}
+      propertyPath: m_TagString
+      value: SBar
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3249766933442102454, guid: 79e150a69306ddd4388e920a890d63f9, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 79e150a69306ddd4388e920a890d63f9, type: 3}
@@ -587,8 +597,8 @@ GameObject:
   - component: {fileID: 1254268405}
   - component: {fileID: 1254268407}
   m_Layer: 0
-  m_Name: bar. (1)
-  m_TagString: Untagged
+  m_Name: Garnett Bar
+  m_TagString: GBar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -913,8 +923,8 @@ GameObject:
   - component: {fileID: 2142176180}
   - component: {fileID: 2142176182}
   m_Layer: 0
-  m_Name: bar. (2)
-  m_TagString: Untagged
+  m_Name: Gumball Bar
+  m_TagString: GumBar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
