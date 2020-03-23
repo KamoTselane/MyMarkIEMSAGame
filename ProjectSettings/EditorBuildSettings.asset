@@ -71,4 +71,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/End.unity
     guid: 6bcc15f2b92ad5646b153689d3df3548
+  - enabled: 1
+    path: Assets/Scenes/Questionnaire.unity
+    guid: 863e2a5fefd5e9b4aa9e2fd0cc8d0e3b
+  - enabled: 1
+    path: Assets/Scenes/Answers.unity
+    guid: 1b8df3d31940692408043266cde3706f
   m_configObjects: {}

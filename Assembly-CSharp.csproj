@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\answer.cs" />
     <Compile Include="Assets\Scripts\backToInfo.cs" />
     <Compile Include="Assets\Scripts\backToMenu.cs" />
     <Compile Include="Assets\Scripts\characeterVote.cs" />
@@ -79,7 +80,9 @@
     <Compile Include="Assets\Scripts\infoSponge.cs" />
     <Compile Include="Assets\Scripts\leadernext.cs" />
     <Compile Include="Assets\Scripts\mazeScript.cs" />
+    <Compile Include="Assets\Scripts\message.cs" />
     <Compile Include="Assets\Scripts\mouthTime.cs" />
+    <Compile Include="Assets\Scripts\nextMessage.cs" />
     <Compile Include="Assets\Scripts\nextScript.cs" />
     <Compile Include="Assets\Scripts\nextTalking.cs" />
     <Compile Include="Assets\Scripts\playGame.cs" />
