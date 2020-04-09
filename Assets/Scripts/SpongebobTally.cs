@@ -32,7 +32,7 @@ public class SpongebobTally : MonoBehaviour
     {
         if (col.gameObject.name == "barrier1")
         {
-            SceneManager.LoadScene("SpongebobWinner");
+            SceneManager.LoadScene("10 - SpongebobWinner");
 
         }
 

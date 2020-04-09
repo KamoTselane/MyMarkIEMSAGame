@@ -22,7 +22,7 @@ public class infoGarn : MonoBehaviour
 
         {
 
-            SceneManager.LoadScene("Garnet");
+            SceneManager.LoadScene("5.3 - Garnet");
         }
     }
 }

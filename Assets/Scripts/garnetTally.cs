@@ -33,7 +33,7 @@ public class garnetTally : MonoBehaviour
     {
         if (col.gameObject.name == "barrier1")
         {
-            SceneManager.LoadScene("GarnetWinner");
+            SceneManager.LoadScene("10 - GarnetWinner");
 
         }
 

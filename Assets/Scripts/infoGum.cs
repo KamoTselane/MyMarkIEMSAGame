@@ -22,7 +22,7 @@ public class infoGum : MonoBehaviour
 
         {
 
-            SceneManager.LoadScene("Gumball");
+            SceneManager.LoadScene("5.1 - Gumball");
         }
     }
 }

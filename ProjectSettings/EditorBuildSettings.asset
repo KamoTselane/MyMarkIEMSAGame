@@ -6,75 +6,75 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/IntroMenu.unity
+    path: Assets/Scenes/1 - IntroMenu.unity
     guid: fa484472144e6684bad09318ac65c82c
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
+    path: Assets/Scenes/1 - Menu.unity
     guid: dbe57b7f6429ec045a3935c6c7da7389
   - enabled: 1
-    path: Assets/Scenes/Credits.unity
+    path: Assets/Scenes/1.1 - Credits.unity
     guid: ea11b9cbd791f2a46b5f441bf9e4780d
   - enabled: 1
-    path: Assets/Scenes/Intro.unity
+    path: Assets/Scenes/2 - Intro.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Talking.unity
+    path: Assets/Scenes/3 - Talking.unity
     guid: c2d658e09279c6a43ba50d06376067f1
   - enabled: 1
-    path: Assets/Scenes/Leader.unity
+    path: Assets/Scenes/4 - Leader.unity
     guid: 9ba97155d58dd9b48bf7f3693b4db280
   - enabled: 1
-    path: Assets/Scenes/Candidates.unity
+    path: Assets/Scenes/5 - Candidates.unity
     guid: 4c0422fb455590641894901bc9545136
   - enabled: 1
-    path: Assets/Scenes/Gumball.unity
+    path: Assets/Scenes/5.1 - Gumball.unity
     guid: 69b0bbb5de24d534e80730c013300189
   - enabled: 1
-    path: Assets/Scenes/Spongebob.unity
+    path: Assets/Scenes/5.2 - Spongebob.unity
     guid: bf5f885534c586743958ab6248524a70
   - enabled: 1
-    path: Assets/Scenes/Garnet.unity
+    path: Assets/Scenes/5.3 - Garnet.unity
     guid: a941a5f756445e44dadeac04b81ed606
   - enabled: 1
-    path: Assets/Scenes/Maze.unity
+    path: Assets/Scenes/6 - Maze.unity
     guid: 8c77c80b9c4a87f48a6534d41a66617b
   - enabled: 1
-    path: Assets/Scenes/Vote.unity
+    path: Assets/Scenes/7 - Vote.unity
     guid: 03b4b3816273d29468726cb67352854f
   - enabled: 1
-    path: Assets/Scenes/One.unity
+    path: Assets/Scenes/8 - One.unity
     guid: 4d0ece7d586eb7d4e96632e02b82a1c1
   - enabled: 1
-    path: Assets/Scenes/Two.unity
+    path: Assets/Scenes/8 - Two.unity
     guid: d0ab18983d4e8954c8ce7fdc01b8fc7b
   - enabled: 1
-    path: Assets/Scenes/Three.unity
+    path: Assets/Scenes/8 - Three.unity
     guid: 7bf6bcf1665d00b44abd4f83a5e9a725
   - enabled: 1
-    path: Assets/Scenes/GarnetTally.unity
+    path: Assets/Scenes/9 - GarnetTally.unity
     guid: ab8390798d40b694191d1e5c9eb89bc8
   - enabled: 1
-    path: Assets/Scenes/GumballTally.unity
+    path: Assets/Scenes/9 - GumballTally.unity
     guid: 3cebf98815ed0554fa62aff26ba5bd6b
   - enabled: 1
-    path: Assets/Scenes/SpongebobTally.unity
+    path: Assets/Scenes/9 - SpongebobTally.unity
     guid: af528ce62f8f6c048a9ca72cc2bae5b2
   - enabled: 1
-    path: Assets/Scenes/GarnetWinner.unity
+    path: Assets/Scenes/10 - GarnetWinner.unity
     guid: 59edca7415c35de43ad699a10c5d8b29
   - enabled: 1
-    path: Assets/Scenes/GumballWinner.unity
+    path: Assets/Scenes/10 - GumballWinner.unity
     guid: b60bbe80ddc72a3469e1f7fe0dcd7fe7
   - enabled: 1
-    path: Assets/Scenes/SpongebobWinner.unity
+    path: Assets/Scenes/10 - SpongebobWinner.unity
     guid: 438b30fd571b8754896063ce695144cb
+  - enabled: 1
+    path: Assets/Scenes/11 - Questionnaire.unity
+    guid: 863e2a5fefd5e9b4aa9e2fd0cc8d0e3b
+  - enabled: 1
+    path: Assets/Scenes/12 - Answers.unity
+    guid: 1b8df3d31940692408043266cde3706f
   - enabled: 1
     path: Assets/Scenes/End.unity
     guid: 6bcc15f2b92ad5646b153689d3df3548
-  - enabled: 1
-    path: Assets/Scenes/Questionnaire.unity
-    guid: 863e2a5fefd5e9b4aa9e2fd0cc8d0e3b
-  - enabled: 1
-    path: Assets/Scenes/Answers.unity
-    guid: 1b8df3d31940692408043266cde3706f
   m_configObjects: {}

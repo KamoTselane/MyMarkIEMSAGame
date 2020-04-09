@@ -22,7 +22,7 @@ public class leadernext : MonoBehaviour
 
         {
             
-            SceneManager.LoadScene("Candidates");
+            SceneManager.LoadScene("5 - Candidates");
         }
     }
 }

@@ -21,7 +21,7 @@ public class backToMenu : MonoBehaviour
         if (isClicked)
 
         {
-            SceneManager.LoadScene("Menu");
+            SceneManager.LoadScene("1 - Menu");
         }
     }
 }

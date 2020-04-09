@@ -19,7 +19,7 @@ public class timerThree : MonoBehaviour
         {
 
 
-            SceneManager.LoadScene("Three");
+            SceneManager.LoadScene("8 - Three");
         }
     }
 }

@@ -21,7 +21,7 @@ public class nextTalking : MonoBehaviour
         if (isClicked)
 
         {
-            SceneManager.LoadScene("Leader");
+            SceneManager.LoadScene("4 - Leader");
         }
     }
 }

@@ -23,7 +23,7 @@ public class tallyTimer : MonoBehaviour
         if (gametimer <= 0)
 
         {
-            SceneManager.LoadScene("SpongebobWinner");
+            SceneManager.LoadScene("10 - SpongebobWinner");
         }
     }
 }

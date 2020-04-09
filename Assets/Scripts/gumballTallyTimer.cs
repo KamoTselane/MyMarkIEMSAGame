@@ -23,7 +23,7 @@ public class gumballTallyTimer : MonoBehaviour
         if (gametimer <= 0)
 
         {
-            SceneManager.LoadScene("GarnetWinner");
+            SceneManager.LoadScene("10 - GarnetWinner");
         }
     }
 }

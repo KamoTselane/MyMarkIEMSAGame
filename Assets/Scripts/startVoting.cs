@@ -22,7 +22,7 @@ public class startVoting : MonoBehaviour
 
         {
 
-            SceneManager.LoadScene("Talking");
+            SceneManager.LoadScene("3 - Talking");
         }
     }
 }

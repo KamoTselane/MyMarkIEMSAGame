@@ -26,7 +26,7 @@ public class timeScript : MonoBehaviour
         if (gametimer <= 0)
 
         {
-            SceneManager.LoadScene("Maze");
+            SceneManager.LoadScene("6 - Maze");
         }
     }
 }

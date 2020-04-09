@@ -24,7 +24,7 @@ public class choiceScript : MonoBehaviour
         else if (Input.GetKey(back))
 
         {
-            SceneManager.LoadScene("Vote");
+            SceneManager.LoadScene("7 - Vote");
         }
     }
 }

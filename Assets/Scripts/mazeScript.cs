@@ -46,7 +46,7 @@ public class mazeScript : MonoBehaviour
     {
         if (col.gameObject.name == "Finish")
         {
-            SceneManager.LoadScene("Vote");
+            SceneManager.LoadScene("7 - Vote");
 
         }
 

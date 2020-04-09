@@ -21,7 +21,7 @@ public class goVote : MonoBehaviour
         if (isClicked)
 
         {
-            SceneManager.LoadScene("Maze");
+            SceneManager.LoadScene("6 - Maze");
         }
     }
 }

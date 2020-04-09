@@ -24,7 +24,7 @@ public class nextMessage : MonoBehaviour
 
         {
             answer.textstring = nextText.text;
-            SceneManager.LoadScene("Answers");
+            SceneManager.LoadScene("12 - Answers");
         }
     }
 

@@ -19,7 +19,7 @@ public class timerOne : MonoBehaviour
         {
 
 
-            SceneManager.LoadScene("One");
+            SceneManager.LoadScene("8 - One");
         }
     }
 }

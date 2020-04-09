@@ -18,13 +18,13 @@ public class garnetChoice : MonoBehaviour
     {
         if (Input.GetKey(enter))
         {
-            SceneManager.LoadScene("GarnetTally");
+            SceneManager.LoadScene("9 - GarnetTally");
         }
 
         else if (Input.GetKey(back))
 
         {
-            SceneManager.LoadScene("Vote");
+            SceneManager.LoadScene("7 - Vote");
         }
     }
 }

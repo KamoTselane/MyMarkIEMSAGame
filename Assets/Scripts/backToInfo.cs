@@ -21,7 +21,7 @@ public class backToInfo : MonoBehaviour
         if (isClicked)
 
         {
-            SceneManager.LoadScene("Candidates");
+            SceneManager.LoadScene("5 - Candidates");
         }
     }
 }

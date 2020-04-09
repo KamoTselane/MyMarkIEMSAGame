@@ -32,7 +32,7 @@ public class gumballTally : MonoBehaviour
     {
         if (col.gameObject.name == "barrier1")
         {
-            SceneManager.LoadScene("GumballWinner");
+            SceneManager.LoadScene("10 - GumballWinner");
 
         }
 

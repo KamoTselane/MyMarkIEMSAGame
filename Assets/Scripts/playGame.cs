@@ -22,7 +22,7 @@ public class playGame : MonoBehaviour
 
         {
 
-            SceneManager.LoadScene("Intro");
+            SceneManager.LoadScene("2 - Intro");
         }
     }
 }

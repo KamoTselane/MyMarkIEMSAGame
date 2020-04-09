@@ -18,13 +18,13 @@ public class gumballChoice : MonoBehaviour
     {
         if (Input.GetKey(enter))
         {
-            SceneManager.LoadScene("GumballTally");
+            SceneManager.LoadScene("9 - GumballTally");
         }
 
         else if (Input.GetKey(back))
 
         {
-            SceneManager.LoadScene("Vote");
+            SceneManager.LoadScene("7 - Vote");
         }
     }
 }

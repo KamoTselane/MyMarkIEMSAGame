@@ -22,7 +22,7 @@ public class infoSponge : MonoBehaviour
 
         {
 
-            SceneManager.LoadScene("Spongebob");
+            SceneManager.LoadScene("5.2 - Spongebob");
         }
     }
 }

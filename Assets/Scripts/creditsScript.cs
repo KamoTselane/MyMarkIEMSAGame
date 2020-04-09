@@ -22,7 +22,7 @@ public class creditsScript : MonoBehaviour
 
         {
 
-            SceneManager.LoadScene("Credits");
+            SceneManager.LoadScene("1.1 - Credits");
         }
     }
 }

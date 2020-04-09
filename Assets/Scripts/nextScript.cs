@@ -21,7 +21,7 @@ public class nextScript : MonoBehaviour
         if (isClicked)
 
         {
-            SceneManager.LoadScene("End");
+            SceneManager.LoadScene("11 - Questionnaire");
         }
     }
 }
