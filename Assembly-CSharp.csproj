@@ -62,15 +62,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\oneButtonSelect.cs" />
     <Compile Include="Assets\Scripts\answer.cs" />
     <Compile Include="Assets\Scripts\backToInfo.cs" />
     <Compile Include="Assets\Scripts\backToMenu.cs" />
     <Compile Include="Assets\Scripts\characeterVote.cs" />
     <Compile Include="Assets\Scripts\choiceScript.cs" />
+    <Compile Include="Assets\Scripts\clicktoGoVote.cs" />
     <Compile Include="Assets\Scripts\creditsScript.cs" />
     <Compile Include="Assets\Scripts\EnterVotingStation.cs" />
     <Compile Include="Assets\Scripts\exitGame.cs" />
+    <Compile Include="Assets\Scripts\fiveButtonScript.cs" />
+    <Compile Include="Assets\Scripts\fourButtonScript.cs" />
     <Compile Include="Assets\Scripts\garnetChoice.cs" />
     <Compile Include="Assets\Scripts\garnetTally.cs" />
     <Compile Include="Assets\Scripts\goVote.cs" />
@@ -87,6 +89,7 @@
     <Compile Include="Assets\Scripts\nextMessage.cs" />
     <Compile Include="Assets\Scripts\nextScript.cs" />
     <Compile Include="Assets\Scripts\nextTalking.cs" />
+    <Compile Include="Assets\Scripts\oneButtonSelect.cs" />
     <Compile Include="Assets\Scripts\playGame.cs" />
     <Compile Include="Assets\Scripts\quitScript.cs" />
     <Compile Include="Assets\Scripts\sceneTimer.cs" />
@@ -95,10 +98,12 @@
     <Compile Include="Assets\Scripts\SpongebobTallyTimer.cs" />
     <Compile Include="Assets\Scripts\startVoting.cs" />
     <Compile Include="Assets\Scripts\tallyTimer.cs" />
+    <Compile Include="Assets\Scripts\threeButtonScript.cs" />
     <Compile Include="Assets\Scripts\timerOne.cs" />
     <Compile Include="Assets\Scripts\timerThree.cs" />
     <Compile Include="Assets\Scripts\timerTwo.cs" />
     <Compile Include="Assets\Scripts\timeScript.cs" />
+    <Compile Include="Assets\Scripts\twoButtonScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/kamog/Documents/Personal Projects/My Mark/MyMarkGithub/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
