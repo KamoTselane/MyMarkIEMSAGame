@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\oneButtonSelect.cs" />
     <Compile Include="Assets\Scripts\answer.cs" />
     <Compile Include="Assets\Scripts\backToInfo.cs" />
     <Compile Include="Assets\Scripts\backToMenu.cs" />
