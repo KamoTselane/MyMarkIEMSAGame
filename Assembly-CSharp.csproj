@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\characeterVote.cs" />
     <Compile Include="Assets\Scripts\choiceScript.cs" />
     <Compile Include="Assets\Scripts\creditsScript.cs" />
+    <Compile Include="Assets\Scripts\EnterVotingStation.cs" />
     <Compile Include="Assets\Scripts\exitGame.cs" />
     <Compile Include="Assets\Scripts\garnetChoice.cs" />
     <Compile Include="Assets\Scripts\garnetTally.cs" />

@@ -39,6 +39,12 @@ EditorBuildSettings:
     path: Assets/Scenes/6 - Maze.unity
     guid: 8c77c80b9c4a87f48a6534d41a66617b
   - enabled: 1
+    path: Assets/Scenes/6.1 - VotingStation.unity
+    guid: 40a18dd692540d74f80ff926b92f2e00
+  - enabled: 1
+    path: Assets/Scenes/6.2 - Inside Voting Station.unity
+    guid: 4e3fcb76760188c46ae07e95ca025ef2
+  - enabled: 1
     path: Assets/Scenes/7 - Vote.unity
     guid: 03b4b3816273d29468726cb67352854f
   - enabled: 1
