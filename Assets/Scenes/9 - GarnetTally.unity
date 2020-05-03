@@ -960,5 +960,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: GBar
       objectReference: {fileID: 0}
+    - target: {fileID: 3249766933442102454, guid: 79e150a69306ddd4388e920a890d63f9,
+        type: 3}
+      propertyPath: speed
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 79e150a69306ddd4388e920a890d63f9, type: 3}

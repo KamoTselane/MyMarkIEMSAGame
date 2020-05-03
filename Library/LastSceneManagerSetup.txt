@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/11 - Questionnaire.unity
+- path: Assets/Scenes/6.2 - Inside Voting Station.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

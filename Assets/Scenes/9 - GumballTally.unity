@@ -772,25 +772,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3249766932040275597, guid: 79e150a69306ddd4388e920a890d63f9,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.74
-      objectReference: {fileID: 0}
-    - target: {fileID: 3249766932040275597, guid: 79e150a69306ddd4388e920a890d63f9,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.03
-      objectReference: {fileID: 0}
     - target: {fileID: 3249766932040275599, guid: 79e150a69306ddd4388e920a890d63f9,
         type: 3}
       propertyPath: m_Enabled
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3249766932396955133, guid: 79e150a69306ddd4388e920a890d63f9,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.89
       objectReference: {fileID: 0}
     - target: {fileID: 3249766933442102458, guid: 79e150a69306ddd4388e920a890d63f9,
         type: 3}
@@ -801,6 +786,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: GumBar
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249766932040275597, guid: 79e150a69306ddd4388e920a890d63f9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249766932040275597, guid: 79e150a69306ddd4388e920a890d63f9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249766932396955133, guid: 79e150a69306ddd4388e920a890d63f9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.89
       objectReference: {fileID: 0}
     - target: {fileID: 3249766933442102456, guid: 79e150a69306ddd4388e920a890d63f9,
         type: 3}
@@ -835,7 +835,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   space: 32
-  speed: 4
+  speed: 7
   barrigid: {fileID: 1725568497}
 --- !u!1 &1766128031
 GameObject:
